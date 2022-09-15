@@ -6,6 +6,10 @@ This is the repository for one of the components of the INDIeOpen architecture, 
 
 <img src="architecture-gamificationserver.jpg">
 
+## Deployment
+
+The GamificationServer component is based on Node.js (https://nodejs.org/en/about/). The deployment of this web application depends on the selected cloud computing provider. Each cloud computing provider provides its own deployment manual. In the case of Microsoft’s Azure one option is Azure Pipelines. You can find more information at the following URL Configure CI/CD with Azure Pipelines - Azure App Service | Microsoft Docs (https://docs.microsoft.com/es-es/azure/app-service/deploy-azure-pipelines?view=azure-devops&tabs=yaml).
+
 ## Creators and contributors
 
 Gamification server component files have been created at the **Digital Content Creation Center** (CPCD), in the Universidad Politécnica de Cartagena.
